@@ -1,7 +1,7 @@
 services:
   app:
+    image: dockerponome/devops-for-programmers-project-74
     build:
       context: .
-    volumes:
-      - ./app:/app
+      dockerfile: Dockerfile.production
     command: make test
