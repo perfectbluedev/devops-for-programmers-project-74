@@ -5,7 +5,7 @@
 
 ## Description
 
-This project is using application [JS Fastify Blog](https://github.com/hexlet-components/js-fastify-blog) for wrapping it in docker image using docker compose, testing and running CI.
+This project is wrapping application [JS Fastify Blog](https://github.com/hexlet-components/js-fastify-blog) in docker image using docker compose, testing and running CI.
 
 Image on DockerHub: dockerponome/devops-for-programmers-project-74
 
